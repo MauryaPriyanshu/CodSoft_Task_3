@@ -1,5 +1,5 @@
 # CodSoft_Task_3
-## Project Name: ATM Simulator
+## Project Name: ATM INTERFACE
 ## Description:
 
 The ATM Simulator is a Java-based console application that simulates an Automated Teller Machine (ATM). It provides a virtual environment for users to interact with their bank accounts, offering options to withdraw, deposit, and check account balances. This project aims to demonstrate the functionality of a basic ATM system and serves as an educational tool for learning about object-oriented programming and user input validation.
